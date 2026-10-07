@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+qdrant_storage/
+outputs/chunks.pkl
+outputs/embeddings.npy
+outputs/faiss_hnsw.index
+outputs/query.npy
+outputs/lab2_bm25_index/
+.env
+*.pdf

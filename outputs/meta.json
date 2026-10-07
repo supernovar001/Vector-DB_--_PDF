@@ -1,0 +1,12 @@
+{
+  "pdf_count": 16,
+  "page_count": 843,
+  "chunk_count": 2398,
+  "embedding_shape": [
+    2398,
+    1024
+  ],
+  "chunk_size": 500,
+  "chunk_overlap": 50,
+  "query": "HBM이란 무엇인가?"
+}
